@@ -1,0 +1,33 @@
+package com.example.task3.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val md_theme_light_primary = Color(0xFF386B01)
+val md_theme_light_onPrimary = Color(0xFFFFFFFF)
+val md_theme_light_primaryContainer = Color(0xFFB7F397)
+val md_theme_light_onPrimaryContainer = Color(0xFF0D2000)
+val md_theme_light_secondary = Color(0xFF57624E)
+val md_theme_light_onSecondary = Color(0xFFFFFFFF)
+val md_theme_light_secondaryContainer = Color(0xFFDBE7C8)
+val md_theme_light_onSecondaryContainer = Color(0xFF151E0F)
+val md_theme_light_background = Color(0xFFFDFCF4)
+val md_theme_light_onBackground = Color(0xFF1B1C18)
+val md_theme_light_surface = Color(0xFFFDFCF4)
+val md_theme_light_onSurface = Color(0xFF1B1C18)
+val md_theme_light_surfaceVariant = Color(0xFFE1E4D5)
+val md_theme_light_onSurfaceVariant = Color(0xFF44483D)
+
+val md_theme_dark_primary = Color(0xFF9CD67E)
+val md_theme_dark_onPrimary = Color(0xFF1B3700)
+val md_theme_dark_primaryContainer = Color(0xFF295000)
+val md_theme_dark_onPrimaryContainer = Color(0xFFB7F397)
+val md_theme_dark_secondary = Color(0xFFBFCBAD)
+val md_theme_dark_onSecondary = Color(0xFF2A3322)
+val md_theme_dark_secondaryContainer = Color(0xFF404A37)
+val md_theme_dark_onSecondaryContainer = Color(0xFFDBE7C8)
+val md_theme_dark_background = Color(0xFF1B1C18)
+val md_theme_dark_onBackground = Color(0xFFE3E3DC)
+val md_theme_dark_surface = Color(0xFF1B1C18)
+val md_theme_dark_onSurface = Color(0xFFE3E3DC)
+val md_theme_dark_surfaceVariant = Color(0xFF44483D)
+val md_theme_dark_onSurfaceVariant = Color(0xFFC5C8BA)
